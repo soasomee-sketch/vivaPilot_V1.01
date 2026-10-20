@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Wykrywanie instancji appki na TV w tej samej sieci Wi-Fi (NsdManager, patrz
+         CastManager.kt) — ACCESS_WIFI_STATE jest wymagane, a CHANGE_WIFI_MULTICAST_STATE
+         czyni wykrywanie mDNS niezawodnym na części urządzeń/routerów, które inaczej
+         filtrują ruch multicast. -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Rząd "Kontynuuj oglądanie" (Watch Next) na ekranie głównym Android TV — patrz WatchNextSync. -->
+    <uses-permission android:name="com.android.providers.tv.permission.WRITE_EPG_DATA" />
+    <!-- Wymagane od API 33, żeby POKAZAĆ jakiekolwiek powiadomienie (w tym powiadomienie
+         z kontrolkami odtwarzania w stylu MediaStyle) — bez tego wpisu system po prostu
+         wyciszy próbę wyświetlenia, zamiast poprosić użytkownika o zgodę. -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- Android TV / Google TV: aplikacja NIE wymaga dotyku ani D-pada jako sprzętu —
+         bez tych dwóch wpisów sklep Play (i część boxów, np. Xiaomi z Google TV) może
+         w ogóle nie pokazać aplikacji jako instalowalnej na urządzeniu bez ekranu
+         dotykowego. required="false" = "obsługuję to, ale nie wymagam". -->
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.gamepad"
+        android:required="false" />
+
+    <!-- Android 11+: bez tej deklaracji appka nie "widzi" systemowej usługi rozpoznawania
+         mowy, więc przycisk wyszukiwania głosowego nigdy by się nie pokazał. -->
+    <queries>
+        <intent>
+            <action android:name="android.speech.action.RECOGNIZE_SPEECH" />
+        </intent>
+    </queries>
+
+    <application
+        android:name=".IptvApp"
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.IptvPlayer"
+        android:usesCleartextTraffic="true"
+        android:hardwareAccelerated="true"
+        android:banner="@drawable/tv_banner">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:configChanges="orientation|screenSize|keyboardHidden|uiMode"
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@style/Theme.IptvPlayer">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".player.PlayerActivity"
+            android:exported="false"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboardHidden|uiMode|screenLayout"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/Theme.IptvPlayer.Player" />
+
+        <!-- Wymagane przez MediaButtonReceiver.buildMediaButtonPendingIntent (patrz
+             PlayerActivity.showMediaNotification) — bez tej deklaracji przyciski play/pauza
+             w powiadomieniu z kontrolkami odtwarzania nic by nie robiły (PendingIntent nie
+             znalazłby żadnego odbiorcy). exported=false: intencje sterujące odtwarzaniem mają
+             przychodzić tylko z wnętrza własnej appki (nasze powiadomienie), nigdy z zewnątrz. -->
+        <receiver
+            android:name="androidx.media.session.MediaButtonReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>

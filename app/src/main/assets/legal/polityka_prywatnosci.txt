@@ -1,0 +1,162 @@
+WERSJA: 1.12
+DATA_WEJSCIA_W_ZYCIE: 2026-10-19
+ZMIANY: Nowa nazwa aplikacji (VivaPilot) i nowe dane Wydawcy; opis zaszyfrowanego zapisu zgód i możliwości pobrania potwierdzenia zgód; zaktualizowane informacje o danych i uprawnieniach.
+---
+1. Kto odpowiada za Twoje dane
+
+1. Aplikację VivaPilot („Aplikacja”) udostępnia Damian Gałka, osoba fizyczna prowadząca działalność nierejestrowaną, adres przedsiębiorstwa i do korespondencji: ul. Przybyszewskiego 209B/9, 93-120 Łódź, adres e-mail: dg.komunikacja@gmail.com („Wydawca”).
+
+2. Wydawca jest administratorem tych danych osobowych, które sam otrzymuje: danych z korespondencji oraz danych o zakupach przekazywanych przez Sklep (pkt 3). Danych zapisywanych w Aplikacji na Twoim urządzeniu Wydawca nie otrzymuje i nie przetwarza (pkt 4). Jeżeli Aplikacja wyświetla reklamy, danymi przetwarzanymi w związku z reklamami administruje Google (pkt 6).
+
+3. W sprawach danych osobowych możesz pisać na adres e-mail lub adres do korespondencji podany w ust. 1.
+
+4. Pojęcia pisane wielką literą (np. Źródło treści, Pełna wersja, Sklep) mają znaczenie nadane im w Regulaminie Aplikacji.
+
+2. Najważniejsze informacje w skrócie
+
+• Aplikacja nie wymaga zakładania konta u Wydawcy.
+• Ustawienia, Źródła treści (w tym loginy i hasła), ulubione, listy i historia oglądania są zapisywane wyłącznie na Twoim urządzeniu. Wydawca nie ma do nich dostępu.
+• Po zakończeniu okresu próbnego bezpłatna wersja może wyświetlać na telefonach i tabletach reklamy Google AdMob; karta Aplikacji w Sklepie ma wtedy oznaczenie „Zawiera reklamy”. Dane do reklam przetwarza Google, a reklamy spersonalizowane wymagają Twojej zgody (pkt 6). Zakup Pełnej wersji wyłącza reklamy.
+• Aplikacja nie zawiera modułów analitycznych i nie wysyła Wydawcy statystyk użytkowania.
+• Wydawca otrzymuje Twoje dane tylko wtedy, gdy sam do niego napiszesz, oraz w ograniczonym zakresie od Sklepu, gdy kupisz Pełną wersję.
+• Twoje dane trafiają do innych podmiotów tylko wtedy, gdy korzystasz z funkcji, które tego wymagają (pkt 5).
+
+3. Dane, które przetwarza Wydawca
+
+Jakie dane: Korespondencja: adres e-mail, imię i nazwisko (jeśli je podasz), treść wiadomości i załączniki, np. zapis awarii, który sam udostępnisz
+W jakim celu: Odpowiedź na pytania, wsparcie techniczne, obsługa zgłoszeń
+Podstawa prawna (RODO): art. 6 ust. 1 lit. b (gdy sprawa dotyczy umowy), w pozostałych przypadkach lit. f (prawnie uzasadniony interes: odpowiedź na wiadomość)
+Jak długo: Do 2 lat od zakończenia sprawy
+
+Jakie dane: Reklamacje: dane z korespondencji i opis reklamacji
+W jakim celu: Rozpatrzenie reklamacji
+Podstawa prawna (RODO): art. 6 ust. 1 lit. b i c (obowiązki z ustawy o prawach konsumenta)
+Jak długo: Do upływu terminu przedawnienia roszczeń
+
+Jakie dane: Dane o zakupie przekazywane przez Sklep: numer zamówienia, data, produkt, cena, kraj, a w niektórych przypadkach imię i nazwisko lub adres e-mail kupującego
+W jakim celu: Potwierdzenie zakupu, obsługa zwrotów i reklamacji, rozliczenia podatkowe
+Podstawa prawna (RODO): art. 6 ust. 1 lit. b i c (obowiązki podatkowe)
+Jak długo: 5 lat od końca roku, w którym upłynął termin płatności podatku
+
+Jakie dane: Dane potrzebne do ustalenia, dochodzenia lub obrony roszczeń
+W jakim celu: Ochrona praw Wydawcy
+Podstawa prawna (RODO): art. 6 ust. 1 lit. f
+Jak długo: Do upływu terminu przedawnienia roszczeń
+
+1. Podanie danych jest dobrowolne. Bez adresu e-mail Wydawca nie może odpowiedzieć na wiadomość.
+
+2. Wydawca nie podejmuje wobec Ciebie decyzji opartych wyłącznie na zautomatyzowanym przetwarzaniu, w tym nie profiluje.
+
+3. Odbiorcy danych: dostawca poczty elektronicznej, z której korzysta Wydawca (Google – usługa Gmail), a także organy publiczne, jeżeli wymagają tego przepisy prawa (np. organy podatkowe).
+
+4. Dane zapisywane wyłącznie na Twoim urządzeniu
+
+Te dane przechowuje Aplikacja w pamięci Twojego urządzenia, abyś mógł z niej korzystać. Nie są przesyłane do Wydawcy.
+
+• adresy, nazwy użytkownika i hasła Twoich Źródeł treści (Xtream Codes, M3U, adres przewodnika po programach EPG);
+• katalog kanałów, filmów i seriali pobrany z Twoich Źródeł treści (pamięć podręczna przyspieszająca uruchamianie) oraz miniatury i plakaty;
+• ulubione, własne listy, historia i postęp oglądania;
+• ustawienia, np. język, ukryte kategorie, preferowane ścieżki dźwięku i napisów, tryb bufora;
+• wskazane przez Ciebie foldery z plikami wideo (funkcja „Folder”);
+• jeśli wystąpi awaria Aplikacji: zapis techniczny tego zdarzenia (opis błędu i ostatnie czynności techniczne Aplikacji, np. identyfikator odtwarzanego materiału). Zapis nie jest nigdzie wysyłany automatycznie;
+• informacja o przebiegu Okresu próbnego i o zakupie Pełnej wersji, a także zapis akceptacji: data i godzina akceptacji, numery wersji Regulaminu i Polityki, oświadczenie o pełnoletności oraz zgody wyrażone przed zakupem. Po zakupie zapis zawiera też numer transakcji ze Sklepu. Zapis jest przechowywany w prywatnej pamięci Aplikacji w formie zaszyfrowanej. Możesz go zobaczyć i zapisać do pliku w Ustawieniach › Informacje prawne › Moje zgody (Pobierz potwierdzenie zgód), ale nie możesz go zmienić.
+
+Dane te usuniesz, czyszcząc dane Aplikacji w ustawieniach systemu albo odinstalowując Aplikację.
+
+5. Połączenia z usługami innych podmiotów
+
+Twoje Źródło treści
+
+Aplikacja łączy się bezpośrednio z serwerem, który wskazałeś: dostawcy Xtream Codes, adresu listy M3U lub przewodnika EPG. Połączenie odbywa się między Twoim urządzeniem a tym serwerem, bez udziału Wydawcy. Serwer otrzymuje standardowe dane techniczne połączenia (np. adres IP) oraz Twoje dane logowania i przetwarza je na zasadach swojego dostawcy.
+
+Aplikacja może też w tle, mniej więcej co 12 godzin, gdy urządzenie ma połączenie z internetem, pobrać z Twoich Źródeł treści aktualny katalog, aby po uruchomieniu od razu pokazać aktualne dane. Odbywa się to wyłącznie między Twoim urządzeniem a Twoimi Źródłami treści.
+
+Wyszukiwanie głosowe
+
+Po naciśnięciu przycisku mikrofonu Aplikacja uruchamia systemową usługę rozpoznawania mowy Twojego urządzenia (zwykle usługę Google). Nagranie głosu przetwarza ta usługa na swoich zasadach. Aplikacja otrzymuje wyłącznie rozpoznany tekst. Aplikacja sama nie nagrywa dźwięku i nie ma uprawnienia do mikrofonu.
+
+Ekran główny telewizora z Android TV („Kontynuuj oglądanie”)
+
+Na telewizorach i przystawkach z Android TV i Google TV Aplikacja dodaje rozpoczęte filmy i odcinki do systemowego rzędu „Kontynuuj oglądanie”. Przekazywane są: tytuł, adres plakatu, czas trwania i miejsce, w którym przerwano oglądanie. Dane te zapisuje system urządzenia, a wyświetla je ekran główny telewizora dostarczany przez producenta systemu (np. Google). Pozycję możesz usunąć z ekranu głównego albo z listy „Kontynuuj oglądanie” w Aplikacji.
+
+Zakup Pełnej wersji
+
+Zakup obsługuje w całości Google Play. Sklep przetwarza dane związane z płatnością i Twoim kontem na zasadach własnej polityki prywatności. Wydawca nie otrzymuje danych płatniczych. Aplikacja sprawdza w Sklepie, czy Pełna wersja została kupiona, a Wydawca otrzymuje od Sklepu dane o transakcji opisane w pkt 3.
+
+Otwieranie w aplikacji VLC
+
+Jeśli wybierzesz „Otwórz w VLC”, Aplikacja przekazuje adres odtwarzanego strumienia do aplikacji VLC zainstalowanej na Twoim urządzeniu. Od tej chwili strumień przetwarza VLC. Adres strumienia może zawierać dane logowania do Twojego Źródła treści.
+
+„Wyślij do TV” (sieć domowa)
+
+Funkcja przesyła odtwarzany materiał z telefonu na telewizor z Aplikacją VivaPilot w Twojej sieci domowej. Po wybraniu telewizora telefon wysyła do niego bezpośrednio adres strumienia, tytuł i miejsce odtwarzania. Nie jest to usługa Google Cast ani inna usługa zewnętrzna, a dane nie trafiają do Wydawcy. Transmisja w sieci lokalnej nie jest szyfrowana, a adres strumienia może zawierać dane logowania. Korzystaj z tej funkcji tylko w zaufanej sieci.
+
+Kopia zapasowa i zapis awarii
+
+Funkcja „Eksportuj kopię” (Ustawienia) tworzy plik z Twoimi Źródłami treści (w tym hasłami), listami i historią i zapisuje go we wskazanym przez Ciebie miejscu. Plik nie jest szyfrowany, przechowuj go bezpiecznie. Zapis ostatniej awarii możesz sam udostępnić, np. e-mailem do Wydawcy. Bez Twojego działania nie jest nigdzie wysyłany.
+
+Pobieranie materiałów
+
+Pobrane filmy i odcinki są zapisywane w publicznym folderze „Pobrane” na Twoim urządzeniu, więc mogą je widzieć inne aplikacje i inni użytkownicy urządzenia.
+
+6. Reklamy
+
+1. Ten punkt stosuje się, jeżeli Aplikacja wyświetla reklamy. Informację o tym znajdziesz w karcie Aplikacji w Sklepie (oznaczenie „Zawiera reklamy”) i w Aplikacji (Ustawienia › Prywatność reklam). Jeżeli Aplikacja nie wyświetla reklam, moduł reklamowy nie jest uruchamiany i Google nie otrzymuje danych opisanych w tym punkcie.
+
+2. Po zakończeniu Okresu próbnego, do czasu zakupu Pełnej wersji, Aplikacja na telefonach i tabletach wyświetla reklamy Google AdMob, dostarczane przez Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irlandia). W Okresie próbnym, po zakupie Pełnej wersji oraz na telewizorach i przystawkach z Android TV i Google TV moduł reklamowy nie jest uruchamiany.
+
+3. Aby wyświetlać reklamy, ograniczać ich powtarzanie, mierzyć skuteczność i zapobiegać nadużyciom, Google przetwarza: identyfikator reklamowy urządzenia, adres IP (z którego wynika przybliżona lokalizacja), informacje o urządzeniu i Aplikacji oraz o interakcjach z reklamami.
+
+4. Na obszarze EOG, w Wielkiej Brytanii i Szwajcarii, zanim reklamy zostaną wyświetlone po raz pierwszy, Aplikacja pokazuje okno zgody Google (User Messaging Platform). Podstawą przetwarzania danych w celu wyświetlania reklam spersonalizowanych jest Twoja zgoda (art. 6 ust. 1 lit. a RODO). Możesz ją wycofać w każdej chwili w Ustawieniach › Prywatność reklam; wycofanie nie wpływa na zgodność z prawem wcześniejszego przetwarzania. Bez zgody mogą być wyświetlane reklamy niespersonalizowane, przy których Google nadal przetwarza niektóre dane, np. w celu ograniczenia częstotliwości wyświetlania i zapobiegania nadużyciom.
+
+5. Wydawca i Google wspólnie decydują o zbieraniu i przekazywaniu do Google danych przez moduł reklamowy w Aplikacji (w tym o uzyskaniu Twojej zgody w oknie zgody Google). Po otrzymaniu tych danych Google przetwarza je we własnych celach jako odrębny administrator, na zasadach opisanych na stronie policies.google.com/technologies/partner-sites. Dane mogą być przekazywane do USA na podstawie EU-US Data Privacy Framework.
+
+6. Identyfikator reklamowy możesz zresetować lub usunąć w ustawieniach Androida (Prywatność › Reklamy).
+
+7. Wydawca nie otrzymuje od Google danych, które pozwalają Cię zidentyfikować, a jedynie zbiorcze statystyki wyświetleń i przychodów z reklam.
+
+8. Aplikacja nie zawiera bibliotek analitycznych.
+
+7. Uprawnienia Aplikacji
+
+• Internet, stan sieci i Wi-Fi: łączenie ze Źródłami treści, dobór bufora do jakości połączenia, wznawianie odtwarzania po powrocie sieci.
+• Wykrywanie urządzeń w sieci lokalnej (multicast): funkcja „Wyślij do TV”.
+• Utrzymywanie urządzenia w stanie aktywnym: nieprzerwane odtwarzanie.
+• Dostęp do plików wideo i pamięci: odtwarzanie plików z folderów, które sam wskażesz, oraz zapis pobieranych materiałów. Aplikacja nie przegląda innych plików.
+• Powiadomienia i usługa na pierwszym planie: sterowanie odtwarzaniem z ekranu blokady, słuchawek i powiadomienia.
+• Zapis w systemowym przewodniku TV: rząd „Kontynuuj oglądanie” na ekranie głównym telewizora.
+• Obraz w obrazie: zminimalizowanie odtwarzacza bez przerywania oglądania.
+• Płatności w Google Play: zakup Pełnej wersji.
+• Identyfikator reklamowy (AD_ID): tylko jeżeli Aplikacja wyświetla reklamy (pkt 6).
+
+Aplikacja nie ma dostępu do kontaktów, lokalizacji, mikrofonu, aparatu ani wiadomości SMS.
+
+8. Przekazywanie danych poza Europejski Obszar Gospodarczy
+
+Wydawca nie przekazuje danych poza Europejski Obszar Gospodarczy (EOG), z jednym wyjątkiem: korespondencja e-mail jest obsługiwana przez usługę Gmail (Google), więc może być przetwarzana także w USA. Odbywa się to na podstawie decyzji Komisji Europejskiej stwierdzającej odpowiedni stopień ochrony danych (EU-US Data Privacy Framework) albo standardowych klauzul umownych. Dane, które przekazujesz bezpośrednio innym podmiotom (dostawcy Źródła treści, Sklep), przetwarzają one na własnych zasadach. Jeżeli Aplikacja wyświetla reklamy, dane związane z reklamami przetwarza Google jako odrębny administrator, także w USA (pkt 6).
+
+9. Twoje prawa
+
+1. W zakresie danych przetwarzanych przez Wydawcę (pkt 3) masz prawo do: dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia danych (gdy przetwarzanie odbywa się na podstawie umowy) oraz sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie.
+
+2. Jeżeli Aplikacja wyświetla reklamy, zgodę na reklamy spersonalizowane możesz w każdej chwili wycofać w Ustawieniach › Prywatność reklam (pkt 6). W sprawie danych przetwarzanych przez Google możesz kontaktować się bezpośrednio z Google.
+
+3. Masz prawo wnieść skargę do Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa, uodo.gov.pl).
+
+4. Nad danymi zapisanymi na urządzeniu (pkt 4) masz bezpośrednią kontrolę: możesz je przeglądać i (poza zapisem akceptacji, który można tylko przeglądać) zmieniać w Aplikacji oraz usunąć, a także wyeksportować w kopii zapasowej.
+
+10. Bezpieczeństwo
+
+Wydawca stosuje środki techniczne i organizacyjne odpowiednie do ryzyka, w szczególności chroni dostęp do skrzynki poczty elektronicznej. Ponieważ dane z Aplikacji są zapisane na Twoim urządzeniu, ich bezpieczeństwo zależy też od zabezpieczenia urządzenia (np. blokady ekranu) oraz od tego, komu je udostępniasz.
+
+11. Wiek użytkowników
+
+Aplikacja jest przeznaczona wyłącznie dla osób pełnoletnich (18 lat i więcej) i nie jest kierowana do dzieci ani młodzieży. Wydawca nie zbiera świadomie danych osób niepełnoletnich. Numer wersji Polityki jest taki sam jak numer wersji Aplikacji, w której Polityka weszła w życie.
+
+12. Zmiany Polityki
+
+Jeżeli zmieni się sposób przetwarzania danych (np. pojawią się nowe funkcje łączące się z innymi usługami), Wydawca zaktualizuje Politykę przed wprowadzeniem takiej zmiany. Aktualna wersja jest zawsze dostępna w Aplikacji (Ustawienia › Informacje prawne) i na stronie [ADRES STRONY]. Wiążąca jest polska wersja Polityki. Tłumaczenia służą ułatwieniu zrozumienia (Regulamin § 1 ust. 10).
+
+13. Kontakt
+
+W sprawach ochrony danych osobowych: dg.komunikacja@gmail.com lub pisemnie: Damian Gałka, ul. Przybyszewskiego 209B/9, 93-120 Łódź.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    To samo wyłączenie rejestru zgód co w backup_rules.xml, ale w formacie Androida 12+
+    (android:dataExtractionRules w AndroidManifest.xml): osobno dla kopii w chmurze
+    (cloud-backup) i dla przenoszenia danych między urządzeniami (device-transfer).
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="consent_vault.bin" />
+        <exclude domain="sharedpref" path="consent_pending.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="file" path="consent_vault.bin" />
+        <exclude domain="sharedpref" path="consent_pending.xml" />
+    </device-transfer>
+</data-extraction-rules>

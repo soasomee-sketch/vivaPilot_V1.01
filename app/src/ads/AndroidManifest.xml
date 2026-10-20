@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Manifest WYŁĄCZNIE wariantu `ads` — Gradle scala go automatycznie z
+    app/src/main/AndroidManifest.xml przy budowaniu tego wariantu (standardowy mechanizm
+    "source set" per-flavor, nic dodatkowego nie trzeba konfigurować). Wariant `noads` NIE MA
+    tego pliku w ogóle, więc to poniższe meta-dane nigdy się tam nie pojawiają.
+
+    Google Mobile Ads SDK WYMAGA tego wpisu w <application> — bez niego appka ULEGA AWARII
+    (crash) zaraz po starcie w wariancie `ads`, natychmiast po dodaniu zależności
+    play-services-ads (patrz app/build.gradle.kts, adsImplementation).
+
+    WAŻNE DLA DAMIANA: poniższy identyfikator to OFICJALNY, TESTOWY identyfikator aplikacji
+    Google (bezpieczny do budowania i testowania — nigdy nie wyświetla prawdziwych reklam ani
+    nie generuje przychodu). Przed publikacją w Google Play PODMIEŃ go na własny identyfikator
+    aplikacji z konta AdMob (admob.google.com -> Aplikacje -> Twoja aplikacja -> Identyfikator
+    aplikacji). To samo dotyczy identyfikatorów jednostek reklamowych w
+    app/src/ads/java/.../ads/AdConfig.kt — tam też są na razie testowe wartości Google.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+        <!-- Bramka akceptacji (sekcja 2 specyfikacji: "Bez akceptacji aplikacja nie działa"):
+             opóźnia start pomiarów aplikacji w SDK reklam do czasu jawnego wywołania
+             MobileAds.initialize() w AdsController, a to następuje dopiero PO akceptacji
+             ekranu powitalnego, po okresie próbnym i po zgodzie UMP. Dzięki temu SDK nie
+             inicjuje się samo przy starcie procesu, zanim Użytkownik cokolwiek zaakceptował. -->
+        <meta-data
+            android:name="com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT"
+            android:value="true" />
+    </application>
+</manifest>

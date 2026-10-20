@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Tło okna appki na czas startu — pokazuje się NATYCHMIAST po dotknięciu ikony, zanim
+    jakikolwiek kod Activity/Compose zdąży się uruchomić (to zwykłe android:windowBackground
+    z manifestu/motywu, nie żaden ekran renderowany przez appkę). Zgłoszenie: appka na TV
+    potrafi się uruchamiać nawet ~10 sekund, przez ten czas był po prostu czarny ekran, który
+    wyglądał jak zawieszenie, nie jak "coś się ładuje". Logo appki na środku daje użytkownikowi
+    natychmiastowy sygnał, że coś faktycznie się dzieje — widoczne tylko przez ten krótki,
+    zmienny czas ładowania: jeśli appka uruchomi się szybko, użytkownik może go nawet nie
+    zauważyć, a jeśli długo, będzie się wyświetlał zamiast pustego czarnego ekranu.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/app_background" />
+    <item
+        android:width="420dp"
+        android:height="420dp"
+        android:gravity="center">
+        <bitmap
+            android:src="@drawable/splash_logo"
+            android:gravity="center" />
+    </item>
+</layer-list>

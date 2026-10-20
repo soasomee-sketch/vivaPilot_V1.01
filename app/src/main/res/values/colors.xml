@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- To samo ciemne tło co reszta appki (Bg w Theme.kt / android:windowBackground w
+         themes.xml) — jeden wspólny kolor w jednym miejscu, żeby ekran startowy nie
+         "przebłyskiwał" innym odcieniem tła niż to, co pokazuje się zaraz potem. -->
+    <color name="app_background">#0B0B0F</color>
+</resources>

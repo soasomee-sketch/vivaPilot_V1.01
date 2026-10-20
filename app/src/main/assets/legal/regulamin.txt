@@ -1,0 +1,229 @@
+WERSJA: 1.12
+DATA_WEJSCIA_W_ZYCIE: 2026-10-19
+ZMIANY: Nowa nazwa aplikacji (VivaPilot) i nowe dane Wydawcy; zmienione zgody wyrażane przed zakupem Pełnej wersji; zapis zgód w formie zaszyfrowanej z możliwością pobrania potwierdzenia zgód.
+---
+W skrócie. VivaPilot jest wyłącznie odtwarzaczem. Nie zawiera i nie sprzedaje żadnych kanałów, filmów ani seriali. Po instalacji jest pusty, dopóki nie dodasz własnego źródła treści, za którego legalność odpowiadasz Ty (§ 6). Przez 5 dni od pierwszego uruchomienia możesz bezpłatnie korzystać ze wszystkich funkcji. Potem część funkcji wymaga jednorazowego zakupu Pełnej wersji (§ 7 i § 8), a na telefonach i tabletach mogą być wyświetlane reklamy, które zakup Pełnej wersji wyłącza (§ 12). Oglądanie zawsze pozostaje bezpłatne. Aplikacja jest przeznaczona wyłącznie dla osób pełnoletnich (18 lat i więcej). Bez zaakceptowania Regulaminu Aplikacja nie uruchomi się.
+
+§ 1. Postanowienia ogólne
+
+1. Regulamin określa zasady korzystania z aplikacji VivaPilot w wersji na urządzenia z systemem Android, w tym telewizory i przystawki z Android TV i Google TV, udostępnianej w sklepie Google Play („Aplikacja”).
+
+2. Aplikację udostępnia Damian Gałka, osoba fizyczna prowadząca działalność nierejestrowaną w rozumieniu art. 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, adres przedsiębiorstwa i do korespondencji: ul. Przybyszewskiego 209B/9, 93-120 Łódź, adres e-mail: dg.komunikacja@gmail.com („Wydawca”).
+
+3. Regulamin jest dostępny bezpłatnie w Aplikacji (Ustawienia › Informacje prawne) oraz na stronie [ADRES STRONY], w formie, która umożliwia jego pobranie, zapisanie i wydrukowanie.
+
+4. Akceptując Regulamin na ekranie powitalnym przy pierwszym uruchomieniu, Użytkownik zawiera z Wydawcą umowę o korzystanie z Aplikacji na zasadach Regulaminu. Regulamin można przeczytać na tym ekranie przed jego zaakceptowaniem. Bez zaakceptowania Regulaminu Aplikacja się nie uruchomi i nie można z niej w ogóle korzystać; do czasu akceptacji Aplikacja nie pobiera ani nie odtwarza żadnych treści.
+
+5. Z Aplikacji mogą korzystać wyłącznie osoby pełnoletnie, czyli takie, które ukończyły 18 lat. Aplikacja odtwarza treści pochodzące ze Źródeł wskazanych przez Użytkownika, których Wydawca nie dostarcza ani nie kontroluje i które mogą być nieodpowiednie dla osób niepełnoletnich. Wydawca nie jest w stanie zabezpieczyć Aplikacji przed dostępem osób niepełnoletnich do takich treści, dlatego zaznaczając pole akceptacji, Użytkownik oświadcza, że jest pełnoletni. Osoba niepełnoletnia nie może zaakceptować Regulaminu ani korzystać z Aplikacji. Rodzice i opiekunowie odpowiadają za to, aby niepełnoletni nie korzystali z Aplikacji na swoich urządzeniach.
+
+6. Numer wersji Regulaminu jest taki sam jak numer wersji Aplikacji, w której Regulamin wszedł w życie (obecnie 1.12), i zwiększa się o 0,01 przy każdej zmianie. Numer wersji Aplikacji jest widoczny w Aplikacji (Ustawienia › Informacje prawne) oraz na górze Regulaminu. Wydawca zapisuje w Aplikacji datę akceptacji i numer zaakceptowanej wersji Regulaminu.
+
+7. Zapis Twojej akceptacji (data i godzina, numery wersji Regulaminu i Polityki prywatności, oświadczenie o pełnoletności, a po zakupie także oświadczenia składane przed zakupem) jest trwale zachowany w pamięci Aplikacji na Twoim urządzeniu. W każdej chwili możesz go zobaczyć w Ustawieniach › Informacje prawne › Moje zgody. Zapis zawiera także numer transakcji ze Sklepu, jeżeli dokonano zakupu. Zapis jest przechowywany w pamięci prywatnej Aplikacji w formie zaszyfrowanej i można go zapisać do pliku (Ustawienia › Informacje prawne › Moje zgody › Pobierz potwierdzenie zgód), np. na potrzeby reklamacji. Zapisu nie można zmienić ani cofnąć w Aplikacji. Zapis nie jest wysyłany do Wydawcy. Usunięcie danych Aplikacji lub jej odinstalowanie usuwa ten zapis.
+
+8. Po zaakceptowaniu Regulaminu nie można cofnąć zgody w Aplikacji. Jeżeli przestajesz zgadzać się na Regulamin, w tym na jego zmiany, musisz zaprzestać korzystania z Aplikacji i ją odinstalować. Korzystanie z Aplikacji bez zgody na Regulamin nie jest możliwe. Nie narusza to praw przysługujących Konsumentom z mocy bezwzględnie obowiązujących przepisów.
+
+9. Regulamin nie wyłącza ani nie ogranicza praw, które przysługują Konsumentom na podstawie bezwzględnie obowiązujących przepisów prawa. Jeżeli postanowienie Regulaminu byłoby z nimi sprzeczne, stosuje się te przepisy.
+
+10. Wiążąca jest polska wersja Regulaminu i Polityki prywatności. Wersje w innych językach, jeżeli są dostępne w Aplikacji, służą ułatwieniu zrozumienia dokumentów. Wydawca jest osobą fizyczną prowadzącą działalność nierejestrowaną i ma ograniczone możliwości, dlatego korzysta z dostępnych narzędzi, w tym z tłumaczenia z pomocą sztucznej inteligencji, i dokłada należytej staranności, aby tłumaczenia były poprawne. Z tłumaczeniami dokumentów i interfejsu Aplikacji Użytkownik może zapoznać się w Okresie próbnym, przed zakupem Pełnej wersji (§ 7), dzięki czemu kupuje Aplikację w stanie, w jakim mógł ją sprawdzić, z zachowaniem praw wymienionych w § 10 ust. 1 i § 11 ust. 3. W razie rozbieżności rozstrzyga wersja polska. Żadna wersja językowa nie ogranicza praw Konsumenta wynikających z bezwzględnie obowiązujących przepisów (§ 1 ust. 9, § 15 ust. 1), a niejasność tłumaczenia nie może być wykładana na niekorzyść Konsumenta. Uprawnienia Konsumenta z tytułu zgodności Aplikacji z umową oceniane są według prawa polskiego i bezwzględnie obowiązujących przepisów państwa jego zwykłego pobytu.
+
+§ 2. Definicje
+
+• Użytkownik – osoba korzystająca z Aplikacji.
+• Konsument – Użytkownik będący konsumentem w rozumieniu art. 22¹ Kodeksu cywilnego. Postanowienia Regulaminu dotyczące Konsumentów stosuje się także do osoby fizycznej zawierającej umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego.
+• Sklep – sklep Google Play, za pośrednictwem którego Aplikacja jest udostępniana i w którym kupowana jest Pełna wersja.
+• Okres próbny – okres bezpłatnego korzystania ze wszystkich funkcji Aplikacji, opisany w § 7.
+• Pełna wersja – odblokowanie funkcji Aplikacji wymienionych w § 7 ust. 3 oraz wyłączenie reklam, jeżeli są wyświetlane (§ 12), kupowane jednorazowo za pośrednictwem Sklepu (§ 8).
+• Źródło treści – lista odtwarzania M3U, dane dostępu Xtream Codes, adres przewodnika po programach (EPG) lub inny adres strumienia wprowadzony do Aplikacji przez Użytkownika.
+
+§ 3. Czym jest Aplikacja
+
+1. Aplikacja jest odtwarzaczem multimedialnym, czyli narzędziem do odtwarzania strumieni wideo i audio wskazanych przez Użytkownika. Sama nie zawiera, nie przechowuje, nie wyszukuje i nie udostępnia żadnych treści.
+
+2. Aby oglądać treści, Użytkownik samodzielnie wprowadza do Aplikacji Źródło treści otrzymane od zewnętrznego dostawcy, z którym zawarł odrębną umowę. Wydawca nie jest stroną tej umowy, nie współpracuje z dostawcami Źródeł treści i nie poleca żadnych dostawców.
+
+3. Wydawca nie jest dostawcą treści telewizyjnych, filmowych ani żadnych innych. Wydawca nie wie, jakie Źródła treści wprowadza Użytkownik, nie przechowuje ich (Aplikacja łączy się ze Źródłem treści bezpośrednio z urządzenia Użytkownika) i nie ma technicznej możliwości kontrolowania treści dostępnych w tych źródłach.
+
+4. Aplikacja umożliwia także odtwarzanie plików wideo zapisanych na urządzeniu Użytkownika (funkcja „Folder”) oraz materiałów pobranych wcześniej przez Użytkownika.
+
+5. Niektóre funkcje dodatkowe działają tylko wtedy, gdy Użytkownik je włączy lub z nich skorzysta, i łączą się z usługami podmiotów trzecich: wyszukiwanie głosowe przez systemową usługę rozpoznawania mowy oraz otwieranie materiału w zewnętrznej aplikacji VLC. Jeżeli w bezpłatnej wersji wyświetlane są reklamy (§ 12), Aplikacja na telefonach i tabletach łączy się także z siecią reklamową Google AdMob. Szczegóły opisuje Polityka prywatności.
+
+6. Aplikacja nie zawiera wbudowanych Źródeł treści, list kanałów ani wyszukiwarki źródeł i nie jest promowana jako sposób na bezpłatny dostęp do płatnych treści.
+
+§ 4. Wymagania techniczne i bezpieczeństwo
+
+1. Do korzystania z Aplikacji potrzebne są:
+
+• urządzenie z systemem Android w wersji 7.0 lub nowszej;
+• dostęp do internetu;
+• do oglądania treści: własne Źródło treści (§ 3 ust. 2);
+• do zakupu Pełnej wersji: konto w Sklepie (konto Google).
+
+2. Jakość odtwarzania zależy od jakości połączenia internetowego, możliwości urządzenia oraz działania serwerów dostawcy Źródła treści, na które Wydawca nie ma wpływu.
+
+3. Korzystanie z usług przez internet wiąże się z typowymi zagrożeniami, takimi jak złośliwe oprogramowanie lub przechwycenie danych przesyłanych bez szyfrowania. Korzystając z Aplikacji, warto pamiętać, że:
+
+• dane logowania do Źródła treści są zapisane na urządzeniu i mogą je zobaczyć inne osoby korzystające z tego urządzenia;
+• połączenia ze Źródłem treści mogą być nieszyfrowane, jeżeli tak działa serwer jego dostawcy;
+• funkcja „Wyślij do TV” przesyła adres strumienia w sieci domowej bez szyfrowania, a plik kopii zapasowej zawiera hasła i nie jest szyfrowany;
+• Aplikację należy instalować wyłącznie ze Sklepu.
+
+4. Część funkcji Aplikacji zależy od danych i usług podmiotów trzecich oraz od urządzenia, oprogramowania i sieci Użytkownika. Dotyczy to w szczególności (lista jest przykładowa): odtwarzania strumieni i katalogu ze Źródła treści, przewodnika po programach (EPG), pobierania materiałów (wymaga, aby pozwalały na to Źródło treści, urządzenie, jego pamięć i system), wyszukiwania głosowego, rzędu „Kontynuuj oglądanie”, otwierania materiałów w aplikacji VLC oraz funkcji „Wyślij do TV”. Aplikacja obsługuje Źródła treści w formatach M3U/M3U8 i Xtream Codes oraz przewodnik po programach w formacie XMLTV. Wydawca odpowiada za to, że Aplikacja obsługuje te funkcje zgodnie z opisem, ale nie gwarantuje, że będą działać z każdym Źródłem treści, usługą i urządzeniem, ponieważ zależy to od czynników, na które Wydawca nie ma wpływu, takich jak format, jakość i ograniczenia danych dostawcy, dostępność usługi, model i oprogramowanie urządzenia, jego ustawienia oraz sieć. Z tych przyczyn dana funkcja może działać na jednym urządzeniu lub z jednym Źródłem treści, a na innym nie. Funkcje mogą też przestać działać albo działać inaczej po zakupie z przyczyn niezależnych od Wydawcy, w szczególności wskutek aktualizacji systemu urządzenia (Android), zmian w Sklepie, w usługach lub formatach dostawców Źródeł treści albo w zasadach i usługach Google lub Samsunga. Wydawca nie gwarantuje, że każda funkcja będzie działać bez przerwy na każdej wersji systemu i w każdej usłudze. Nie ogranicza to praw Konsumenta wynikających z przepisów prawa.
+
+5. Okres próbny (§ 7) służy temu, aby Użytkownik mógł przed zakupem sprawdzić, czy funkcje opisane w ust. 4 działają z jego urządzeniem i Źródłami treści. Kupując Pełną wersję, Użytkownik otrzymuje Aplikację w takiej postaci, w jakiej była mu udostępniona w Okresie próbnym. Przed zakupem Pełnej wersji Aplikacja wyraźnie informuje o konkretnych cechach, których działanie nie jest gwarantowane: (1) odtwarzaniu i katalogu ze Źródła treści, (2) przewodniku po programach (EPG), (3) pobieraniu materiałów, (4) wyszukiwaniu głosowym, rzędzie „Kontynuuj oglądanie”, otwieraniu materiałów w aplikacji VLC i funkcji „Wyślij do TV”. Użytkownik odrębnie akceptuje brak gwarancji ich działania, zaznaczając osobne pole na ekranie zakupu. Użytkownik przyjmuje też do wiadomości, że inne funkcje Aplikacji, niewymienione powyżej, mogą z przyczyn opisanych w ust. 4 działać nieprawidłowo lub przestać działać.
+
+6. Zasady z ust. 4 stosuje się także do funkcji korzystających z danych lub usług podmiotów trzecich, które Wydawca doda do Aplikacji w przyszłości, nawet jeżeli nie są dziś wymienione w Regulaminie. Takie funkcje są dodatkiem ponad zakres Pełnej wersji kupionej przez Użytkownika (§ 7). Ich niedziałanie, ograniczenie lub wycofanie nie stanowi braku zgodności Aplikacji z umową i nie jest podstawą do zwrotu ceny.
+
+§ 5. Licencja i zasady korzystania
+
+1. Wydawca udziela Użytkownikowi niewyłącznej i nieprzenoszalnej licencji na korzystanie z Aplikacji na własny, niekomercyjny użytek, na urządzeniach Użytkownika, przez czas trwania umowy. Zakup Pełnej wersji rozszerza zakres dostępnych funkcji (§ 8). Pełna wersja jest powiązana z kontem Użytkownika w Sklepie i nie może być odsprzedawana ani udostępniana osobom trzecim, poza możliwościami, które przewiduje sam Sklep.
+
+2. Kod, nazwa, logo i elementy graficzne Aplikacji należą do Wydawcy lub są wykorzystywane na podstawie licencji. Regulamin nie przenosi na Użytkownika praw autorskich, praw do znaków ani praw do treści odtwarzanych w Aplikacji, które należą do ich uprawnionych.
+
+3. Zabronione jest:
+
+• kopiowanie, modyfikowanie i rozpowszechnianie Aplikacji lub jej części, w tym udostępnianie zmodyfikowanych wersji;
+• obchodzenie zabezpieczeń, w tym mechanizmów Okresu próbnego i weryfikacji zakupu;
+• inżynieria wsteczna, dekompilacja i deasemblacja Aplikacji, z wyjątkiem przypadków, w których pozwalają na to bezwzględnie obowiązujące przepisy prawa;
+• korzystanie z Aplikacji w sposób sprzeczny z prawem, dobrymi obyczajami lub Regulaminem.
+
+4. Aplikacja zawiera komponenty open source, udostępniane na zasadach ich licencji. Lista komponentów i licencji jest dostępna w Aplikacji (Ustawienia › Informacje prawne › Licencje) oraz na stronie [ADRES STRONY]. Zakazy z ust. 3 nie ograniczają uprawnień, które przysługują Użytkownikowi na podstawie tych licencji, w szczególności prawa do modyfikowania biblioteki libVLC i inżynierii wstecznej w zakresie potrzebnym do sprawdzania takich modyfikacji (licencja GNU LGPL).
+
+§ 6. Źródła treści i obowiązki Użytkownika
+
+1. Użytkownik korzysta z Aplikacji zgodnie z prawem i Regulaminem.
+
+2. Użytkownik odpowiada za to, że ma prawo korzystać ze Źródeł treści, które wprowadza do Aplikacji, w tym za posiadanie wymaganych licencji, subskrypcji i zgód uprawnionych.
+
+3. Zabronione jest korzystanie z Aplikacji do odtwarzania lub udostępniania treści z naruszeniem praw autorskich, praw pokrewnych lub innych praw osób trzecich, a także do dostarczania treści o charakterze bezprawnym.
+
+4. Aplikacja nie przekazuje Źródeł treści innym Użytkownikom ani Wydawcy. Każde połączenie odbywa się indywidualnie, z urządzenia danego Użytkownika.
+
+5. Osoba, której prawa są naruszane w związku z korzystaniem z Aplikacji, może zgłosić to Wydawcy na adres e-mail wskazany w § 1 ust. 2. Wydawca odpowiada na zgłoszenie w terminie 14 dni. Wydawca nie przechowuje treści ani Źródeł treści, więc nie może ich usunąć; może natomiast podjąć działania dostępne w ramach Aplikacji i Sklepu, w tym odmówić wsparcia technicznego Użytkownikowi, który narusza Regulamin.
+
+§ 7. Okres próbny i zakres Pełnej wersji
+
+1. Przez 5 dni od pierwszego uruchomienia Aplikacji Użytkownik może bezpłatnie korzystać ze wszystkich jej funkcji (Okres próbny). Okres próbny przysługuje jednorazowo.
+
+2. Po zakończeniu Okresu próbnego Aplikacja wyświetla komunikat z informacją, które funkcje wymagają Pełnej wersji.
+
+3. Po zakończeniu Okresu próbnego, bez zakupu Pełnej wersji, niedostępne są następujące funkcje (ich działanie zależy także od warunków opisanych w § 4 ust. 4):
+
+• wyszukiwanie;
+• własne listy („Moje listy”);
+• pobieranie materiałów na urządzenie.
+
+4. Bezpłatnie i bez ograniczeń czasowych dostępne pozostają: dodawanie i edycja Źródeł treści, przeglądanie oraz oglądanie kanałów, filmów i seriali.
+
+5. Ograniczenie funkcji opisane w ust. 3 oraz wyświetlanie reklam opisane w ust. 6 są uzgodnionym zakresem bezpłatnej części Aplikacji i nie stanowi braku jej zgodności z umową.
+
+6. Po zakończeniu Okresu próbnego, do czasu zakupu Pełnej wersji, Aplikacja na telefonach i tabletach może wyświetlać reklamy na zasadach § 12.
+
+7. Pełna wersja zawiera te same funkcje, które były dostępne w Okresie próbnym, z zastrzeżeniem zmian dokonanych zgodnie z § 14.
+
+§ 8. Zakup Pełnej wersji
+
+1. Pełna wersja jest zakupem jednorazowym, a nie subskrypcją. Nie wiąże się z opłatami cyklicznymi. Zakup Pełnej wersji trwale wyłącza także reklamy, jeżeli są wyświetlane (§ 12).
+
+2. Zakupu dokonuje się w Aplikacji, za pośrednictwem systemu płatności Sklepu (Google Play). Płatność, rozliczenie podatków i zwrot płatności obsługuje Sklep na swoich zasadach. Wydawca nie otrzymuje ani nie przetwarza danych płatniczych Użytkownika.
+
+3. Cena Pełnej wersji jest wyświetlana przez Sklep przed potwierdzeniem zakupu i zawiera należne podatki.
+
+4. Przed przejściem do płatności Aplikacja wyświetla informację o zakresie Pełnej wersji i prosi o akceptację opisaną w § 4 ust. 5 oraz o zgodę opisaną w § 9 ust. 2.
+
+5. Umowa o dostarczenie Pełnej wersji zostaje zawarta z chwilą potwierdzenia zakupu w Sklepie. Pełna wersja zostaje odblokowana niezwłocznie po otrzymaniu ze Sklepu informacji o zakupie, zwykle od razu.
+
+6. Pełna wersja jest przypisana do konta Google, którym dokonano zakupu. Jest dostępna na wszystkich urządzeniach z Androidem, na których Użytkownik zainstaluje Aplikację i korzysta z tego konta. Po ponownej instalacji Aplikacji zakup jest przywracany automatycznie.
+
+7. W sprawach płatności i zwrotów płatności stosuje się także zasady Sklepu. W razie rozbieżności w tym zakresie pierwszeństwo mają zasady Sklepu, z zastrzeżeniem bezwzględnie obowiązujących przepisów chroniących Konsumentów.
+
+8. Wydawca może zmieniać cenę Pełnej wersji. Zmiana ceny nie dotyczy zakupów dokonanych wcześniej.
+
+§ 9. Prawo odstąpienia od umowy
+
+1. Konsument, który zawarł umowę na odległość, może co do zasady odstąpić od niej w terminie 14 dni bez podawania przyczyny.
+
+2. Prawo odstąpienia od umowy o dostarczenie Pełnej wersji nie przysługuje, jeżeli Pełna wersja została odblokowana za wyraźną i uprzednią zgodą Konsumenta, który przed rozpoczęciem świadczenia został poinformowany, że po jego spełnieniu utraci prawo odstąpienia od umowy, przyjął to do wiadomości i otrzymał potwierdzenie (art. 38 ust. 1 pkt 13 ustawy z dnia 30 maja 2014 r. o prawach konsumenta). Konsument wyraża tę zgodę przed zakupem: w Aplikacji, zaznaczając osobne pole na ekranie zakupu o treści: „Wyrażam zgodę na natychmiastowe rozpoczęcie świadczenia (odblokowanie Pełnej wersji) przed upływem 14-dniowego terminu na odstąpienie od umowy i przyjmuję do wiadomości, że z chwilą odblokowania tracę prawo do odstąpienia od umowy.”, oraz w procesie zakupu w Sklepie.
+
+3. Potwierdzenie zawarcia umowy wraz z informacją o wyrażonej zgodzie i utracie prawa odstąpienia Konsument otrzymuje na trwałym nośniku: w wiadomości e-mail od Sklepu potwierdzającej zamówienie oraz w Aplikacji, która po zakupie wyświetla potwierdzenie i umożliwia zapisanie go w pliku na urządzeniu (także później: Ustawienia › Zakup).
+
+4. Bezpłatne korzystanie z Aplikacji, w tym w Okresie próbnym, Użytkownik może zakończyć w każdej chwili, odinstalowując Aplikację.
+
+5. Poza uprawnieniami z tytułu braku zgodności z umową (§ 10) i zwrotami przyznawanymi przez Sklep na jego zasadach cena Pełnej wersji nie podlega zwrotowi.
+
+§ 10. Zgodność z umową, aktualizacje i reklamacje
+
+1. Wydawca odpowiada wobec Konsumenta za zgodność Aplikacji z umową na zasadach rozdziału 5b ustawy o prawach konsumenta, w tym za brak zgodności Pełnej wersji istniejący w chwili jej dostarczenia, który ujawnił się w ciągu 2 lat od tej chwili.
+
+2. Wydawca dostarcza aktualizacje, w tym aktualizacje zabezpieczeń, niezbędne do zachowania zgodności Aplikacji z umową, przez okres, którego Konsument może rozsądnie oczekiwać, nie krótszy niż 2 lata od zakupu Pełnej wersji. Aktualizacje są udostępniane przez Sklep. Instalacja aktualizacji jest dobrowolna, chyba że wymusza ją Sklep lub system urządzenia. Wydawca nie odpowiada za brak zgodności wynikający wyłącznie z tego, że Konsument nie zainstalował w rozsądnym terminie aktualizacji, o której został poinformowany wraz ze skutkami jej niezainstalowania. Jeżeli Sklep lub system urządzenia przestanie obsługiwać starszą wersję Aplikacji, dalsze korzystanie z niej może wymagać aktualizacji; Wydawca nie ma wpływu na takie decyzje Sklepu i producenta systemu.
+
+3. Za brak zgodności z umową nie uważa się w szczególności: ograniczeń opisanych w § 7 ust. 3 i reklam opisanych w § 12, a także niedziałania lub ograniczonego działania funkcji opisanych w § 4 ust. 4 z przyczyn leżących po stronie dostawcy Źródła treści (w tym zmiany formatu lub zasad dostępu), usług podmiotów trzecich (w tym zmiany lub zakończenia ich działania), urządzenia lub sieci Użytkownika, w tym urządzenia, które nie spełnia wymagań z § 4 ust. 1, a także niedziałania funkcji dodanych w przyszłości, o których mowa w § 4 ust. 6. Użytkownik zaakceptował te zasady przed zakupem (§ 4 ust. 5).
+
+4. Reklamację można złożyć e-mailem albo pisemnie na adresy wskazane w § 1 ust. 2. Ułatwi to jej rozpatrzenie, jeżeli będzie zawierała opis problemu, wersję Aplikacji, model urządzenia i dane do odpowiedzi.
+
+5. Wydawca odpowiada na reklamację w terminie 14 dni od jej otrzymania, na adres, z którego ją wysłano, chyba że Użytkownik wskaże inny.
+
+6. W razie braku zgodności z umową Konsument może żądać doprowadzenia Aplikacji do zgodności z umową, a w przypadkach określonych w ustawie o prawach konsumenta – złożyć oświadczenie o obniżeniu ceny albo o odstąpieniu od umowy. Należną kwotę Wydawca zwraca niezwłocznie, nie później niż w terminie 14 dni od otrzymania oświadczenia, za pośrednictwem Sklepu, przy użyciu tego samego sposobu płatności.
+
+7. Reklamacje dotyczące samej płatności, np. podwójnego obciążenia, Użytkownik może składać także bezpośrednio w Sklepie.
+
+§ 11. Odpowiedzialność
+
+1. Wydawca nie odpowiada za treści dostępne w Źródłach treści ani za działanie, dostępność i legalność serwerów osób trzecich, z którymi Aplikacja łączy się na polecenie Użytkownika.
+
+2. Dane zapisane w Aplikacji znajdują się wyłącznie na urządzeniu Użytkownika i mogą zostać utracone przy odinstalowaniu Aplikacji, wyczyszczeniu jej danych lub wymianie urządzenia. Aby temu zapobiec, Aplikacja umożliwia eksport i import kopii zapasowej (Ustawienia).
+
+3. Wobec Konsumentów Wydawca odpowiada na zasadach wynikających z przepisów prawa. Regulamin nie ogranicza tej odpowiedzialności.
+
+4. Wobec Użytkowników niebędących Konsumentami odpowiedzialność Wydawcy, w granicach dozwolonych przez prawo, jest ograniczona do szkody rzeczywistej i do kwoty zapłaconej za Pełną wersję. Ograniczenie nie dotyczy szkody wyrządzonej umyślnie.
+
+5. Wydawca nie odpowiada za niewykonanie lub nienależyte wykonanie zobowiązań spowodowane siłą wyższą, czyli zdarzeniem zewnętrznym, którego nie można było przewidzieć ani mu zapobiec. Nie ogranicza to praw Konsumentów wynikających z bezwzględnie obowiązujących przepisów.
+
+§ 12. Reklamy
+
+1. Wydawca może udostępniać bezpłatną wersję Aplikacji z reklamami. Informacja, czy Aplikacja wyświetla reklamy, jest podana w karcie Aplikacji w Sklepie (oznaczenie „Zawiera reklamy”) oraz w Aplikacji (Ustawienia › Prywatność reklam). Jeżeli Aplikacja wyświetla reklamy, stosuje się ust. 2–7.
+
+2. Po zakończeniu Okresu próbnego, do czasu zakupu Pełnej wersji, Aplikacja na telefonach i tabletach wyświetla reklamy dostarczane przez sieć reklamową Google AdMob: banery na ekranach przeglądania oraz reklamy pełnoekranowe przy przechodzeniu między ekranami.
+
+3. Reklamy nie są wyświetlane podczas odtwarzania materiałów, w Okresie próbnym, po zakupie Pełnej wersji ani na telewizorach i przystawkach z Android TV i Google TV.
+
+4. Na obszarze EOG, w Wielkiej Brytanii i Szwajcarii, zanim reklamy zostaną wyświetlone po raz pierwszy, Aplikacja prosi o zgodę na wykorzystanie danych do celów reklamowych (okno zgody Google). Bez zgody mogą być wyświetlane reklamy niespersonalizowane. Zgodę można zmienić w każdej chwili w Ustawieniach › Prywatność reklam.
+
+5. Zakup Pełnej wersji (§ 8) trwale wyłącza reklamy na wszystkich urządzeniach, na których Użytkownik korzysta z tego samego konta Google.
+
+6. Wydawca nie odpowiada za treść reklam dostarczanych przez sieć reklamową. Reklamę, która narusza prawo, można zgłosić Wydawcy na adres e-mail wskazany w § 1 ust. 2, a Wydawca przekaże zgłoszenie sieci reklamowej.
+
+7. Zasady przetwarzania danych w związku z reklamami opisuje Polityka prywatności (pkt 6).
+
+8. Jeżeli Wydawca zacznie wyświetlać reklamy w Aplikacji, która wcześniej ich nie wyświetlała, poinformuje o tym w Aplikacji co najmniej 14 dni wcześniej. Zmiana nie dotyczy Użytkowników, którzy kupili Pełną wersję.
+
+§ 13. Dane osobowe
+
+1. Aplikacja nie wymaga zakładania konta u Wydawcy. Dane wprowadzane do Aplikacji są zapisywane na urządzeniu Użytkownika i nie są przesyłane do Wydawcy. Dane potrzebne do wyświetlania reklam, jeżeli są wyświetlane, przetwarza Google (§ 12).
+
+2. Zasady przetwarzania danych osobowych, w tym danych przekazywanych Wydawcy w korespondencji i w związku z zakupem, opisuje Polityka prywatności dostępna w Aplikacji i na stronie [ADRES STRONY].
+
+§ 14. Zmiany Aplikacji i Regulaminu, zakończenie umowy
+
+1. Wydawca może rozwijać Aplikację, w tym zmieniać, dodawać i usuwać funkcje. Zmiana Pełnej wersji jest dopuszczalna z uzasadnionych przyczyn, takich jak: zmiana przepisów prawa, zmiana zasad Sklepu lub systemu operacyjnego urządzenia, zmiana lub zakończenie działania usług podmiotów trzecich, z których korzysta Aplikacja, potrzeba zapewnienia bezpieczeństwa, usunięcia błędów lub dostosowania Aplikacji do nowych urządzeń. Zmiana nie wiąże się z kosztami dla Konsumenta, a Wydawca informuje o niej w Aplikacji. Zmiany dokonane zgodnie z tym ustępem nie są podstawą do zwrotu ceny. Wyjątkiem jest zmiana, która w istotny sposób pogarsza dostęp do Pełnej wersji lub korzystanie z niej: jest ona dopuszczalna wyłącznie na warunkach ustawy o prawach konsumenta, a Konsumentowi przysługują wtedy uprawnienia przewidziane w tej ustawie.
+
+2. Wydawca może zmienić Regulamin z ważnych przyczyn, takich jak zmiana przepisów prawa, zasad Sklepu, funkcji Aplikacji lub wymogów bezpieczeństwa. O zmianie Wydawca informuje w Aplikacji co najmniej 14 dni przed jej wejściem w życie. Zmiana nie narusza praw nabytych wcześniej, w szczególności prawa do korzystania z kupionej Pełnej wersji. Użytkownik, który nie akceptuje zmiany, może zakończyć umowę, odinstalowując Aplikację.
+
+3. Użytkownik może w każdej chwili zakończyć korzystanie z Aplikacji, odinstalowując ją. Użytkownik, który po akceptacji Regulaminu przestaje się z nim zgadzać, powinien zaprzestać korzystania z Aplikacji i ją odinstalować (§ 1 ust. 8).
+
+4. Wydawca może zakończyć rozwój Aplikacji lub wycofać ją ze Sklepu, informując o tym w Aplikacji lub na stronie [ADRES STRONY] co najmniej 30 dni wcześniej. Nie narusza to obowiązków Wydawcy wobec Konsumentów, którzy kupili Pełną wersję, w szczególności obowiązku z § 10 ust. 2.
+
+5. Jeżeli Sklep usunie Aplikację lub ograniczy jej dystrybucję z przyczyn niezależnych od Wydawcy, Wydawca poinformuje o tym na stronie [ADRES STRONY]. Zainstalowana wcześniej Aplikacja może działać dalej w zakresie, na jaki pozwalają Sklep i system urządzenia.
+
+6. Wydawca może przenieść Aplikację wraz z prawami i obowiązkami z umów z Użytkownikami na przedsiębiorstwo, które sam prowadzi lub założy (np. jednoosobową działalność gospodarczą albo spółkę). Wydawca poinformuje o tym w Aplikacji co najmniej 30 dni wcześniej. Użytkownik, który nie zgadza się na tę zmianę, może zakończyć umowę. Przeniesienie nie narusza praw Konsumentów, którzy kupili Pełną wersję.
+
+§ 15. Prawo właściwe i rozwiązywanie sporów
+
+1. Do umowy stosuje się prawo polskie. Wybór prawa polskiego nie pozbawia Konsumenta, który ma zwykłe miejsce pobytu w innym państwie członkowskim Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, ochrony przyznanej mu przepisami tego państwa, których nie można wyłączyć w drodze umowy.
+
+2. Konsument może skorzystać z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia roszczeń, w tym z pomocy miejskiego lub powiatowego rzecznika konsumentów, z mediacji albo ze stałego polubownego sądu konsumenckiego przy wojewódzkim inspektorze Inspekcji Handlowej. Konsumenci z innych państw Unii Europejskiej mogą zwrócić się o pomoc do Europejskiego Centrum Konsumenckiego w swoim kraju. Informacje o podmiotach uprawnionych do prowadzenia takich postępowań są dostępne na stronie Urzędu Ochrony Konkurencji i Konsumentów (uokik.gov.pl). Udział Wydawcy w takim postępowaniu jest dobrowolny. Jeżeli Wydawca nie uwzględni reklamacji, w odpowiedzi poinformuje, czy wyraża zgodę na takie postępowanie.
+
+3. Spory z Użytkownikami niebędącymi Konsumentami rozstrzyga sąd powszechny właściwy według miejsca zamieszkania Wydawcy. Zapis ten dotyczy wyłącznie Użytkowników niebędących Konsumentami. Konsument może dochodzić roszczeń przed sądem właściwym według powszechnie obowiązujących przepisów, w tym w państwie swojego zwykłego pobytu.
+
+§ 16. Kontakt
+
+Pytania, reklamacje i zgłoszenia można kierować na adres e-mail lub adres do korespondencji Wydawcy wskazane w § 1 ust. 2. Wydawca odpowiada w terminie 14 dni.

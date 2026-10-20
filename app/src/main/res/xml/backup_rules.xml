@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Reguły automatycznej kopii zapasowej Androida dla Androida 6-11 (android:fullBackupContent
+    w AndroidManifest.xml).
+    Rejestr zgód Użytkownika (zaszyfrowany plik "consent_vault.bin" w prywatnej pamięci appki,
+    patrz ConsentVault.kt) oraz plik z oczekującymi zgodami zakupowymi ("consent_pending",
+    patrz LocalStore.setPendingPurchaseConsents) są WYŁĄCZONE z kopii: rejestru nie wolno
+    nigdzie wysyłać, a automatyczna kopia Androida wysyła pliki appki na Dysk Google
+    Użytkownika. Klucz szyfrujący leży w Android Keystore i i tak nie przechodzi na inne
+    urządzenie, więc skopiowany plik byłby nieczytelny. Skutek uboczny jest celowy: po
+    przywróceniu appki z kopii na nowym urządzeniu nie ma rejestru zgód, więc ekran powitalny
+    pokazuje się ponownie (nowa instalacja = nowa akceptacja).
+    Reszta danych appki (playlisty, ulubione itd.) zostaje w kopii jak dotąd.
+-->
+<full-backup-content>
+    <exclude domain="file" path="consent_vault.bin" />
+    <exclude domain="sharedpref" path="consent_pending.xml" />
+</full-backup-content>

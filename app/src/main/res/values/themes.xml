@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.IptvPlayer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0B0B0F</item>
+        <item name="android:navigationBarColor">#0B0B0F</item>
+        <!-- Logo na środku, widoczne NATYCHMIAST po dotknięciu ikony appki, zanim
+             jakikolwiek kod zdąży się uruchomić — patrz splash_background.xml. Zastępuje
+             sam czarny/pusty ekran, który wcześniej wyglądał jak zawieszenie appki przy
+             dłuższym starcie (zgłoszenie: ~10 sekund czarnego ekranu na TV). -->
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="Theme.IptvPlayer.Player" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
