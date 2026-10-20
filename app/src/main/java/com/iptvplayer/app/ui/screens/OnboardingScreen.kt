@@ -231,7 +231,7 @@ private fun LegalLinkRow(label: String, onClick: () -> Unit) {
 
 /**
  * Pełny tekst Regulaminu albo Polityki prywatności, wbudowany w aplikację (sekcja 7
- * specyfikacji z 09.10) — czytany z `assets/legal/*.txt` przez LegalDocuments.load().
+ * specyfikacji z 09.10) — czytany z plików tekstowych w `assets/legal/` przez LegalDocuments.load().
  * Przewijalny, czytelny na telewizorze, z numerem wersji i datą wejścia w życie na górze.
  * Używany zarówno z linków na ekranie powitalnym (OnboardingScreen), jak i z Ustawień ->
  * Informacje prawne (SettingsScreen.kt).

@@ -27,8 +27,8 @@ data class LegalDocument(
 )
 
 /**
- * Wczytuje wbudowane pełne teksty Regulaminu i Polityki prywatności z
- * `app/src/main/assets/legal/*.txt` (sekcja 7 specyfikacji zgodności prawnej z 09.10:
+ * Wczytuje wbudowane pełne teksty Regulaminu i Polityki prywatności z plików
+ * tekstowych w `app/src/main/assets/legal/` (sekcja 7 specyfikacji zgodności prawnej z 09.10:
  * "pełne teksty wbudowane w aplikację (pliki w assets, przewijane, czytelne na
  * telewizorze)"). Używane przez: OnboardingScreen.kt (linki "Regulamin"/"Polityka
  * prywatności" przy pierwszym uruchomieniu), SettingsScreen.kt (Ustawienia -> Informacje
