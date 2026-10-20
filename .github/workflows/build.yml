@@ -1,0 +1,53 @@
+name: Build APK
+
+# Uruchamia się przy każdym pushu do main oraz ręcznie z zakładki "Actions" na GitHubie
+# (przycisk "Run workflow") — to drugie przydaje się, gdy chcesz zbudować APK bez
+# robienia nowego commita, np. żeby sprawdzić, czy poprzedni build faktycznie się udał.
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout kodu
+        uses: actions/checkout@v4
+
+      - name: Ustawienie JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Uprawnienia do uruchomienia gradlew
+        run: chmod +x gradlew
+
+      # 1) Zwykła wersja (bez reklam) — to ją instalujesz do testów. Jeśli TEN krok się nie
+      #    uda, cały build jest czerwony.
+      - name: Budowa APK noads (zwykła wersja)
+        run: ./gradlew assembleNoadsDebug --console=plain
+
+      - name: Publikacja APK noads
+        uses: actions/upload-artifact@v4
+        with:
+          name: vivapilot-noads-debug-apk
+          path: app/build/outputs/apk/noads/debug/*.apk
+          if-no-files-found: error
+
+      # 2) Wersja z reklamami — osobny krok, wykonywany nawet gdy krok 1 się nie udał (żeby w
+      #    jednym przebiegu zobaczyć błędy obu wersji). Jego niepowodzenie NIE czerwieni całego
+      #    buildu: zwykła wersja z kroku 1 i tak jest gotowa do pobrania.
+      - name: Budowa APK ads (z reklamami)
+        if: ${{ always() }}
+        continue-on-error: true
+        run: ./gradlew assembleAdsDebug --console=plain
+
+      - name: Publikacja APK ads
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: vivapilot-ads-debug-apk
+          path: app/build/outputs/apk/ads/debug/*.apk
+          if-no-files-found: warn
